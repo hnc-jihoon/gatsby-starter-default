@@ -1,3 +1,8 @@
+Hosted on Gatsby Cloud:<br>
+[gatsbystarterdefault32572.gatsbyjs.io](https://gatsbystarterdefault32572.gatsbyjs.io)
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
